@@ -1,4 +1,4 @@
-![logo](https://github.com/Zainab1909/Zainab1909/blob/main/coding%20pic.jpeg)
+![logo](https://github.com/Zainab1909/Zainab1909/blob/main/coding%20pic%20(1).jpeg)
 <h1 align="center">Hi 👋, I'm Zainab Zubair</h1>
 <h3 align="center">Software Engineer</h3>
 
